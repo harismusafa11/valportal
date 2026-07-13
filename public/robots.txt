@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private-profile/
+
+Sitemap: https://valportal.gg/sitemap.xml

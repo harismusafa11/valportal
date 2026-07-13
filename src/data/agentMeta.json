@@ -1,0 +1,162 @@
+{
+  "agents": {
+    "Jett": {
+      "role": "Duelist",
+      "baseWinRates": {
+        "Ascent": 52.4, "Bind": 49.8, "Breeze": 53.5, "Haven": 51.2, "Icebox": 52.1, "Lotus": 50.8, "Split": 48.9, "Sunset": 50.2, "Fracture": 49.5, "Pearl": 51.8, "Abyss": 52.4
+      }
+    },
+    "Phoenix": {
+      "role": "Duelist",
+      "baseWinRates": {
+        "Ascent": 50.5, "Bind": 51.2, "Breeze": 47.8, "Haven": 50.1, "Icebox": 48.2, "Lotus": 49.8, "Split": 51.5, "Sunset": 50.9, "Fracture": 50.2, "Pearl": 49.6, "Abyss": 48.5
+      }
+    },
+    "Neon": {
+      "role": "Duelist",
+      "baseWinRates": {
+        "Ascent": 48.2, "Bind": 50.5, "Breeze": 51.2, "Haven": 49.8, "Icebox": 49.1, "Lotus": 52.4, "Split": 50.8, "Sunset": 52.1, "Fracture": 53.2, "Pearl": 50.5, "Abyss": 51.8
+      }
+    },
+    "Raze": {
+      "role": "Duelist",
+      "baseWinRates": {
+        "Ascent": 48.8, "Bind": 52.5, "Breeze": 45.2, "Haven": 50.8, "Icebox": 47.9, "Lotus": 52.1, "Split": 53.4, "Sunset": 51.8, "Fracture": 52.9, "Pearl": 52.0, "Abyss": 50.2
+      }
+    },
+    "Reyna": {
+      "role": "Duelist",
+      "baseWinRates": {
+        "Ascent": 51.2, "Bind": 50.9, "Breeze": 50.1, "Haven": 51.5, "Icebox": 50.8, "Lotus": 49.5, "Split": 50.2, "Sunset": 50.8, "Fracture": 49.8, "Pearl": 51.0, "Abyss": 50.4
+      }
+    },
+    "Yoru": {
+      "role": "Duelist",
+      "baseWinRates": {
+        "Ascent": 49.5, "Bind": 51.8, "Breeze": 49.2, "Haven": 50.2, "Icebox": 50.5, "Lotus": 48.8, "Split": 49.1, "Sunset": 49.9, "Fracture": 50.8, "Pearl": 49.5, "Abyss": 51.2
+      }
+    },
+    "Iso": {
+      "role": "Duelist",
+      "baseWinRates": {
+        "Ascent": 51.0, "Bind": 50.2, "Breeze": 48.9, "Haven": 50.5, "Icebox": 50.1, "Lotus": 49.2, "Split": 51.2, "Sunset": 51.5, "Fracture": 50.4, "Pearl": 50.1, "Abyss": 49.8
+      }
+    },
+    "Breach": {
+      "role": "Initiator",
+      "baseWinRates": {
+        "Ascent": 49.1, "Bind": 50.8, "Breeze": 46.5, "Haven": 51.2, "Icebox": 47.2, "Lotus": 52.5, "Split": 52.9, "Sunset": 51.0, "Fracture": 54.1, "Pearl": 50.8, "Abyss": 49.5
+      }
+    },
+    "Fade": {
+      "role": "Initiator",
+      "baseWinRates": {
+        "Ascent": 51.8, "Bind": 52.1, "Breeze": 46.2, "Haven": 50.5, "Icebox": 48.9, "Lotus": 51.2, "Split": 50.6, "Sunset": 51.2, "Fracture": 50.8, "Pearl": 50.2, "Abyss": 49.9
+      }
+    },
+    "Gekko": {
+      "role": "Initiator",
+      "baseWinRates": {
+        "Ascent": 50.2, "Bind": 51.5, "Breeze": 49.8, "Haven": 51.0, "Icebox": 50.5, "Lotus": 52.1, "Split": 50.9, "Sunset": 52.8, "Fracture": 51.2, "Pearl": 51.5, "Abyss": 51.0
+      }
+    },
+    "KAYO": {
+      "role": "Initiator",
+      "baseWinRates": {
+        "Ascent": 51.5, "Bind": 49.2, "Breeze": 50.8, "Haven": 49.5, "Icebox": 50.2, "Lotus": 50.1, "Split": 50.6, "Sunset": 49.8, "Fracture": 51.5, "Pearl": 50.4, "Abyss": 50.9
+      }
+    },
+    "Skye": {
+      "role": "Initiator",
+      "baseWinRates": {
+        "Ascent": 50.8, "Bind": 51.0, "Breeze": 49.5, "Haven": 52.1, "Icebox": 49.2, "Lotus": 51.5, "Split": 51.8, "Sunset": 50.6, "Fracture": 51.0, "Pearl": 51.2, "Abyss": 50.4
+      }
+    },
+    "Sova": {
+      "role": "Initiator",
+      "baseWinRates": {
+        "Ascent": 54.1, "Bind": 51.5, "Breeze": 53.8, "Haven": 52.0, "Icebox": 52.9, "Lotus": 48.2, "Split": 47.5, "Sunset": 49.5, "Fracture": 48.1, "Pearl": 51.8, "Abyss": 52.5
+      }
+    },
+    "Deadlock": {
+      "role": "Sentinel",
+      "baseWinRates": {
+        "Ascent": 50.2, "Bind": 51.8, "Breeze": 47.5, "Haven": 49.9, "Icebox": 52.1, "Lotus": 49.5, "Split": 51.2, "Sunset": 50.8, "Fracture": 50.1, "Pearl": 50.5, "Abyss": 49.2
+      }
+    },
+    "Cypher": {
+      "role": "Sentinel",
+      "baseWinRates": {
+        "Ascent": 52.5, "Bind": 53.8, "Breeze": 51.2, "Haven": 52.1, "Icebox": 51.0, "Lotus": 50.9, "Split": 52.8, "Sunset": 53.9, "Fracture": 51.8, "Pearl": 51.2, "Abyss": 52.0
+      }
+    },
+    "Killjoy": {
+      "role": "Sentinel",
+      "baseWinRates": {
+        "Ascent": 53.4, "Bind": 51.2, "Breeze": 48.5, "Haven": 51.8, "Icebox": 52.4, "Lotus": 52.5, "Split": 51.9, "Sunset": 50.8, "Fracture": 52.1, "Pearl": 51.5, "Abyss": 50.6
+      }
+    },
+    "Sage": {
+      "role": "Sentinel",
+      "baseWinRates": {
+        "Ascent": 51.9, "Bind": 52.5, "Breeze": 48.2, "Haven": 51.0, "Icebox": 53.1, "Lotus": 49.8, "Split": 51.5, "Sunset": 50.2, "Fracture": 49.9, "Pearl": 50.8, "Abyss": 49.5
+      }
+    },
+    "Vyse": {
+      "role": "Sentinel",
+      "baseWinRates": {
+        "Ascent": 50.8, "Bind": 51.5, "Breeze": 48.9, "Haven": 50.5, "Icebox": 51.2, "Lotus": 51.8, "Split": 52.1, "Sunset": 51.6, "Fracture": 50.5, "Pearl": 51.0, "Abyss": 50.1
+      }
+    },
+    "Chamber": {
+      "role": "Sentinel",
+      "baseWinRates": {
+        "Ascent": 50.2, "Bind": 49.8, "Breeze": 52.1, "Haven": 50.1, "Icebox": 51.5, "Lotus": 49.2, "Split": 48.5, "Sunset": 50.4, "Fracture": 50.9, "Pearl": 50.6, "Abyss": 51.2
+      }
+    },
+    "Astra": {
+      "role": "Controller",
+      "baseWinRates": {
+        "Ascent": 51.2, "Bind": 49.5, "Breeze": 47.2, "Haven": 50.8, "Icebox": 48.1, "Lotus": 50.5, "Split": 52.0, "Sunset": 50.9, "Fracture": 51.5, "Pearl": 51.8, "Abyss": 51.0
+      }
+    },
+    "Clove": {
+      "role": "Controller",
+      "baseWinRates": {
+        "Ascent": 53.1, "Bind": 52.8, "Breeze": 49.5, "Haven": 53.4, "Icebox": 51.2, "Lotus": 52.8, "Split": 52.4, "Sunset": 53.0, "Fracture": 51.9, "Pearl": 52.5, "Abyss": 52.1
+      }
+    },
+    "Harbor": {
+      "role": "Controller",
+      "baseWinRates": {
+        "Ascent": 47.5, "Bind": 49.2, "Breeze": 51.5, "Haven": 48.9, "Icebox": 50.2, "Lotus": 50.8, "Split": 48.1, "Sunset": 49.0, "Fracture": 50.2, "Pearl": 51.0, "Abyss": 51.5
+      }
+    },
+    "Omen": {
+      "role": "Controller",
+      "baseWinRates": {
+        "Ascent": 51.8, "Bind": 51.2, "Breeze": 48.2, "Haven": 52.4, "Icebox": 49.5, "Lotus": 51.6, "Split": 52.1, "Sunset": 51.8, "Fracture": 51.2, "Pearl": 50.9, "Abyss": 51.5
+      }
+    },
+    "Viper": {
+      "role": "Controller",
+      "baseWinRates": {
+        "Ascent": 48.5, "Bind": 52.1, "Breeze": 54.5, "Haven": 49.2, "Icebox": 53.8, "Lotus": 50.2, "Split": 51.0, "Sunset": 50.5, "Fracture": 52.4, "Pearl": 51.2, "Abyss": 52.8
+      }
+    }
+  },
+  "synergies": [
+    { "agents": ["Raze", "Fade"], "bonus": 1.5 },
+    { "agents": ["Neon", "Breach"], "bonus": 1.5 },
+    { "agents": ["Gekko", "Clove"], "bonus": 1.2 },
+    { "agents": ["Viper", "Harbor"], "bonus": 1.3 },
+    { "agents": ["Jett", "Sova"], "bonus": 1.4 },
+    { "agents": ["Cypher", "KAYO"], "bonus": 1.1 }
+  ],
+  "counters": [
+    { "counter": "KAYO", "target": "Raze", "bonus": 1.0 },
+    { "counter": "KAYO", "target": "Neon", "bonus": 1.2 },
+    { "counter": "Cypher", "target": "Jett", "bonus": 1.0 },
+    { "counter": "Viper", "target": "Harbor", "bonus": 0.8 }
+  ]
+}

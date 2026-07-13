@@ -1,0 +1,5586 @@
+[
+  {
+    "name": "Tenz",
+    "team": "Sentinels",
+    "code": "0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;4;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "SEN",
+    "category": "Competitive"
+  },
+  {
+    "name": "yay",
+    "team": "Bleed Esports",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF3E3E] to-[#1C1C1C]",
+    "avatarInitials": "BLD",
+    "category": "Pro"
+  },
+  {
+    "name": "my girlfriend",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;1;o;0;z;2;a;1;0t;2;0l;6;0v;6;0o;3;0a;0.8;0s;1;0e;1;1t;2;1l;2;1v;2;1o;10;1a;0.35;1s;1;1e;1;u;FFFFFF;d;0;h;0;0g;0;1g;0;0f;1;1f;1;0m;0;1m;1;0b;0;1b;0;m;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Tarik",
+    "team": "Sentinels (Streamer)",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "SEN",
+    "category": "Competitive"
+  },
+  {
+    "name": "VCT Logo",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;1;o;0.5;z;2;a;1;0t;8;0l;1;0v;1;0o;1;0a;1;0s;1;0e;1;1t;10;1l;1;1v;1;1o;2;1a;0.6;1s;1;1e;1;u;FF6782;d;1;h;0;0g;0;1g;0;0f;0;1f;0;0m;0;1m;0;0b;1;1b;1;m;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Mixwell",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;7;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0;A;c;1;o;1;d;1;0b;0;1b;0;S;s;0.359;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "aspas",
+    "team": "Leviatán",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;c;0",
+    "logoColor": "from-[#00BFFF] to-[#00008B]",
+    "avatarInitials": "LEV",
+    "category": "Pro"
+  },
+  {
+    "name": "s0m",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;h;0;b;1;0v;4;0g;1;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Sinatraa",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;0t;1;0l;3;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Cat",
+    "team": "FUNNY",
+    "code": "0;P;c;8;u;FFB8DBFF;h;0;d;1;b;1;z;3;0t;10;0l;0;0v;3;0g;1;0o;1;0a;1;0f;0;1t;9;1v;0;1g;1;1o;3;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Airplane",
+    "team": "FUNNY",
+    "code": "0;s;1;P;c;8;u;000000FF;h;0;b;1;f;0;0l;4;0v;1;0g;1;0o;1;0a;1;0f;0;1t;1;1l;6;1v;0;1g;1;1o;2;1a;1;1m;0;1f;0;S;c;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "benjyfishy",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;0b;0;1t;1;1l;1;1v;0;1o;1;1a;1;1m;0;1f;0;S;c;0;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Kyedae",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;h;0;b;1;0l;4;0v;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "florescent",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;o;1;b;1;0t;1;0l;2;0a;1;0f;0;1b;0;S;c;8;s;0.713;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Minecraft Chest",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;4;o;0.65;z;4;a;0.55;0t;10;0l;6;0v;6;0o;0;0a;0.75;0s;0.4;0e;2;1t;3;1l;4;1v;4;1o;34;1a;0.4;1s;2.6;1e;1.4;u;8A5E14;d;1;h;1;0g;0;1g;0;0f;0;1f;0;0m;0;1m;1;0b;1;1b;0;m;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "dgzin",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;0;d;1;z;1;0t;1;0l;3;0v;2;0g;1;0o;0;0a;1;0f;0;1b;0;S;c;5;s;2.204;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Glasses",
+    "team": "FUNNY",
+    "code": "0;P;t;2;o;1;d;1;0t;10;0l;19;0v;0;0g;1;0o;1;0a;0;0e;0;1l;10;1v;0;1g;1;1o;19;1a;0;1s;0;1e;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Subroza",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0l;2;0o;0;0a;1;0f;0;1b;0;S;c;0;s;0.833;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Mooda",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;u;000000FF;h;0;f;0;0l;5;0v;4;0o;0;0a;1;0f;0;1b;0;S;c;0;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Wardell",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0t;1;0l;4;0o;1;0a;1;0f;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Marved",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;h;0;b;1;0l;4;0v;4;0o;0;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "ardiis",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;o;1;d;1;b;1;0b;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "benjyfishy",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;7;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Enzo",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;s;0.9",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "MrFaliN",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Sayf",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;7;o;1;d;1;z;1;0t;1;0l;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Shy",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;h;0;b;1;0b;0;1l;4;1v;3;1o;0;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "trent",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1t;0;1l;0;1o;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Snowflake",
+    "team": "FUNNY",
+    "code": "0;P;h;0;f;0;0o;0;0a;1;0f;0;1t;4;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Demon1",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;c;0;s;0.5;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Flashback",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;d;1;0l;0;1l;0;A;o;0.931;d;1;z;1;0l;0;1l;0;S;s;0.64",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "keloqz",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "keznit",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;h;0;b;1;0l;4;0o;0;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "kiNgg",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;h;0;b;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Sayf",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;d;1;0l;0;0a;1;0f;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Zeppa",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Double Crosshair",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;1;o;0.5;z;2;a;1;0t;2;0l;10;0v;0;0o;20;0a;1;0s;1;0e;1;1t;10;1l;2;1v;0;1o;24;1a;1;1s;1;1e;1;u;00FF00;d;0;h;0;0g;1;1g;1;0f;0;1f;0;0m;0;1m;0;0b;1;1b;1;m;0;f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Meiy",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;o;1;d;1;b;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "NaturE",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;0;0o;0;0a;1;0f;0;1t;6;1o;0;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "TakaS",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Among Us",
+    "team": "FUNNY",
+    "code": "0;c;1;P;c;5;t;3;o;1;f;0;0t;10;0l;1;0v;0;0g;1;0o;4;0a;1;0f;0;1t;9;1o;0;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "artziN",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;4;0v;4;0o;0;0a;1;0f;0;1b;0;S;c;5;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Benkai",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;m;1;0t;1;0l;5;0v;5;0o;1;0a;1;0f;0;1b;0;S;s;0.85;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Dep",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;d;1;z;1;0t;3;0l;2;0o;0;0a;1;0f;0;1b;0;S;c;5;s;1.026;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Haodong",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;h;0;m;1;0l;3;0v;3;0g;1;0o;1;0a;1;0f;0;1b;0;S;c;5;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Klaus",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;o;1;d;1;z;3;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "NagZet",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;h;0;d;1;b;1;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Shuriken",
+    "team": "FUNNY",
+    "code": "0;P;c;7;h;0;f;0;0l;4;0o;2;0a;1;0f;0;1t;8;1l;1;1o;1;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Alfajer",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;2;0o;2;0a;1;0f;0;1b;0;A;c;5;o;1;d;1;0b;0;1b;0;S;s;0.628;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Governor",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;h;0;b;1;m;1;0v;4;0g;1;0o;2;0a;1;0f;0;1b;0;A;c;1;o;1;d;1;0b;0;1b;0;S;c;0;s;0.5;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "logaN",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;o;1;d;1;z;1;0t;1;0l;4;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;0l;0;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Nicc",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;0l;5;0a;0.5;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "primmie",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;0.544;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Victor",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;h;0;0l;4;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Alfajer",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0t;1;0l;4;0o;1;0a;1;0f;0;1t;3;1o;2;1a;1;1m;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Boostio",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;m;1;0l;2;0o;0;0a;1;1b;0;S;c;0;s;0.933;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "hiroronn",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;3;0o;2;0a;1;0f;0;1b;0;A;c;8;o;1;d;1;b;1;0b;0;1b;0;S;s;0.8",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Matrixx",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;d;1;0l;1;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Penguin",
+    "team": "FUNNY",
+    "code": "0;p;0;s;1;P;c;4;o;1;d;1;z;6;a;0;f;0;m;1;0t;10;0l;10;0v;0;0g;1;0o;17;0a;0;0f;0;1t;6;1l;0;1v;3;1g;1;1o;0;1a;1;1s;0.053;1e;0.206;A;c;4;o;0.585;d;1;z;6;a;0;m;1;0t;6;0l;0;0v;3;0g;1;0o;4;0a;1;0f;0;1t;3;1l;8;1v;0;1g;1;1o;18;1a;1",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "PROD",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;c;1;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "SUYGETSU",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;d;1;0l;1;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "WRONSKI",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;o;0.8;b;1;0t;1;0l;2;0v;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Xbox",
+    "team": "FUNNY",
+    "code": "0;P;c;1;h;0;f;0;m;1;0t;3;0l;3;0o;2;0a;1;0f;0;1t;6;1l;1;1o;4;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Medkit",
+    "team": "FUNNY",
+    "code": "0;P;c;7;h;0;f;0;0t;6;0l;1;0o;0;0a;1;0f;0;1t;10;1l;1;1o;5;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "ATA KAPTAN",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;5;s;1.142;o;0.829",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Benkai",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "free1ng",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Saadhak",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "sScary",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;s;1;P;c;5;o;1;d;1;z;3;0b;0;1b;0;A;c;5;o;1;d;1;z;3;0b;0;1b;0;S;c;5;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Zellsis",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;4;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Pokemon",
+    "team": "FUNNY",
+    "code": "0;P;c;7;o;1;d;1;f;0;0t;10;0l;5;0o;0;0a;1;0f;0;1t;6;1l;1;1o;5;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "BuZz",
+    "team": "VALORANT PRO",
+    "code": "0;c;1;s;1;P;c;5;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "CHICHOO",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;m;1;0l;4;0v;4;0g;1;0o;0;0a;1;0f;0;1b;0;S;c;5;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "d3ffo",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;c;0;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Dgzin",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;4;0v;3;0g;1;0o;2;0a;1;0f;0;1b;0;S;c;5;s;1.312;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "iZu",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;0t;3;0l;1;0v;0;0g;1;0o;0;0a;1;0f;0;1t;1;1l;4;1g;1;1o;0;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "keznit",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0l;5;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "LotharHS",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;d;1;z;3;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Mazino",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "SugarZ3ro",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;3;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Surf",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;4;o;1;m;1;0t;1;0l;1;0a;0;0f;0;1t;1;1l;1;1o;4;1a;0;1m;0;1f;0;S;c;0;s;0.591",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "ANGE1",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;d;1;0l;0;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1f;0;S;c;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "JohnOlsen",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;c;0;s;1.2;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "kaajak",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;s;0.603;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "melser",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "bizerra",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;0t;1;0l;1;0o;2;0a;0;0f;0;1t;1;1o;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "emotionless face",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;1;o;1;z;2;a;1;0t;4;0l;20;0v;0;0o;0;0a;1;0s;1;0e;1;1t;10;1l;10;1v;0;1o;40;1a;1;1s;1;1e;1;u;000000;d;0;h;0;0g;1;1g;1;0f;0;1f;1;0m;0;1m;1;0b;1;1b;1;m;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Ethan",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;1;0o;0;0a;1;0f;0;1l;1;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Fit1nho",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;s;1;P;c;5;h;0;0l;4;0v;5;0o;2;0a;1;0f;0;1b;0;S;c;5;s;0.848;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Jremy",
+    "team": "VALORANT PRO",
+    "code": "0;c;1;s;1;P;o;1;d;1;0l;1;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Mazino",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;0t;1;0l;2;0o;1;0a;1;0e;0.29;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "mindfreak",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Quad Flappy Bird",
+    "team": "FUNNY",
+    "code": "0;P;c;1;t;3;o;1;f;0;0t;6;0l;20;0o;13;0a;1;0f;0;1t;9;1l;4;1o;9;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "treelover",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0b;0;1o;1;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "TZH",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;5;0o;0;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "TZH",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0l;4;0v;3;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "kamo",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;d;1;z;1;0t;1;0l;3;0o;2;0a;1;0f;0;1t;3;1l;1;1o;3;1a;1;1m;0;1f;0;A;o;1;d;1;0b;0;1b;0;S;c;0;s;0.606;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "N4RRATE",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;u;000000;h;0;b;1;0l;4;0v;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Sacy",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;0t;1;0l;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Davidp",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;5;0v;4;0g;1;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "ec1s",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;h;0;m;1;0l;5;0v;5;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "iiTzTimmy",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;3;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Kairo",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0;S;c;0;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "mazin",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;0t;1;0l;1;0o;2;0a;0;0f;0;1t;1;1l;1;1o;1;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Shao",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;3;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Tehbotol",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;0t;1;0l;1;0o;2;0a;0.1;0f;0;1t;1;1l;1;1o;3;1a;0.1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "astr0",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "B1ack",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;3;0v;2;0o;2;0a;1;0f;0;1b;0;S;c;0;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Boostio",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0t;1;0l;2;0a;1;0f;0;1l;5;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "BuZz",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;2;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Fit1nho",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;m;1;0l;4;0v;4;0o;0;0a;1;0f;0;1b;0;S;s;0.982;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "nukkye",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;0t;1;0l;3;0o;2;0a;1;0f;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Bazzi",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;0t;1;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "mindfreak",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "mitch",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;o;1;0l;4;0o;4;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Relyks",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;m;1;0t;1;0l;2;0v;2;0a;1;0f;0;1t;0;1l;0;1v;0;1o;5;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Sayaplayer",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;0t;1;0l;3;0o;1;0a;1;0f;0;1b;0;S;c;1;s;0.75;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "yay",
+    "team": "Bleed Esports",
+    "code": "0;s;1;P;o;1;d;1;z;1;0b;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF3E3E] to-[#1C1C1C]",
+    "avatarInitials": "BLD",
+    "category": "Pro"
+  },
+  {
+    "name": "BeYN",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "frttt",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;h;0;0l;5;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Thwifo",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0l;5;0v;5;0g;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Avez",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "crashies",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Wild0reoo",
+    "team": "VALORANT PRO",
+    "code": "0;c;1;s;1;P;c;5;o;0.887;d;1;0l;1;0o;1;0a;0.49;0f;0;1b;0;S;c;5",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "3 Crosshairs",
+    "team": "FUNNY",
+    "code": "0;s;1;P;c;7;t;2;o;1;0t;10;0l;20;0o;1;0a;0;0f;0;1l;10;1o;40;1a;0.484;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "AtaKaptan",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;5;s;1.142;o;0.829",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "johnqt",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;2;h;0;0l;5;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "leaf",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;h;0;b;1;0l;4;0o;1;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "mta",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0t;4;0l;0;0v;0;0o;0;0a;0;0f;0;1b;0;S;s;1.018;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "ShahZaM",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;o;0.723;0t;1;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Zellsis",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;m;1;0l;8;0o;4;0a;1;0f;0;1b;0;S;c;0;s;0.689;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "BerLIN",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0t;1;0l;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Chronicle",
+    "team": "FNATIC",
+    "code": "0;P;o;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FFA500] to-[#FF4500]",
+    "avatarInitials": "FNC",
+    "category": "Pro"
+  },
+  {
+    "name": "d4v41",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Enzo",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;h;0;0t;1;0l;3;0v;1;0o;0;0a;1;0f;0;1b;0;A;c;8;o;1;d;1;b;1;0b;0;1b;0;S;s;0.8;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Healing",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;0.103;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Karon",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "monk",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;3;0o;1;0a;1;0f;0;1b;0;A;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "shiba",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;h;0;d;1;b;1;m;1;0t;6;0l;1;0o;0;0a;1;0m;1;0s;0.025;0e;0.045;1b;0;A;o;1;d;1;z;1;0b;0;1b;0;S;c;5;o;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "SicK",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;o;1;0l;3;0o;5;0a;1;0f;0;1t;0;1l;10;1o;0;1a;1;1m;0;1f;0;S;s;1.3;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "yay",
+    "team": "Bleed Esports",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;c;0",
+    "logoColor": "from-[#FF3E3E] to-[#1C1C1C]",
+    "avatarInitials": "BLD",
+    "category": "Pro"
+  },
+  {
+    "name": "Duno",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;4;0o;0;0a;1;0f;0;1b;0;S;c;8;s;0.75;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "iron",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;3;o;0.5;z;6;a;1;0t;10;0l;6;0v;6;0o;4;0a;0.8;0s;1;0e;1;1t;2;1l;4;1v;4;1o;9;1a;1;1s;1;1e;1;u;4A4A4AFF;d;1;h;1;0g;0;1g;0;0f;0;1f;0;0m;0;1m;0;0b;1;1b;1;m;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Mazino",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "SUYGETSU",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;d;1;z;3;0b;0;1b;0;S;s;0.628",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "cauanzin",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;0t;1;0l;3;0o;1;0a;1;0f;0;1t;0;1l;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Crws",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "kiNgg",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;h;0;b;1;0l;4;0v;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "lenne",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;o;0.549;0l;4;0v;3;0a;0.647;0f;0;1b;0;A;c;1;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "QutionerX",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;d;1;z;1;0t;5;0l;1;0o;2;0a;1;0f;0;1t;1;1o;2;1a;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "gMd",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;m;1;0b;0;1l;3;1o;1;1a;1;1s;0.025;1e;0.2;A;h;0;0t;6;0l;1;0o;1;0a;1;0f;0;1b;0;S;c;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "koalanoob",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;5;0o;1;0a;1;0f;0;1b;0;S;c;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "L1NK",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "mimi",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;m;1;0l;4;0o;0;0f;0;1b;0;S;c;5;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Seoldam",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;m;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Shao",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;7;h;0;m;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "ceNder",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;4;o;1;0t;1;0l;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "dapr",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;s;0.5",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "hiro",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;2;0o;1;0a;1;0f;0;1b;0;A;c;5;o;1;d;1;0b;0;1b;0;S;s;0.628;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "JitboyS",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;h;0;0l;3;0v;5;0o;2;0a;1;0f;0;1t;10;1l;0;1v;10;1o;13;1a;1;1m;0;1f;0;S;c;4",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Shion7",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Sun",
+    "team": "FUNNY",
+    "code": "0;P;c;3;h;0;d;1;z;6;a;0.538;m;1;0t;10;0l;2;0o;5;0a;0.137;0f;0;1b;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "v1c",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;h;0;b;1;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "penny",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;0.75;d;1;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "v1nNy",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;d;1;0t;0;0l;4;0o;0;0a;0;0f;0;1t;0;1l;0;1o;0;1a;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "xanarchy",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;0l;4;0v;3;0g;1;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "beyAz",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;z;3;0t;3;0l;0;0v;2;0a;1;0f;0;1l;0;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "f0rsakeN",
+    "team": "Paper Rex",
+    "code": "0;s;1;P;o;1;0l;1;0o;4;0a;1;0f;0;1b;0;A;o;1;0b;0;1t;1;1l;1;1o;0;1a;1;1m;0;1f;0;S;c;0;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRX",
+    "category": "Pro"
+  },
+  {
+    "name": "Kuba",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;h;0;b;1;0t;6;0l;2;0v;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Marved",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Nukkye",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0t;1;0l;4;0o;1;0a;1;0f;0;1t;3;1o;2;1a;1;1m;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "soulcas",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "RgLMeister",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;c;4;s;0.628",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Tacolilla",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Xross",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;c;0;s;1.007;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "AvovA",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Boostio",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;0l;5;0o;1;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "jakee",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;4;o;1;0t;1;0l;2;0v;3;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;0l;0;0o;2;0a;1;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "jzz",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;P;h;0;d;1;z;1;m;1;0t;1;0l;2;0o;2;0a;1;0f;0;1t;5;1l;1;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Keiko",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;z;1;0b;0;1b;0;S;c;0;s;0.922;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "OXY",
+    "team": "VALORANT PRO",
+    "code": "0;c;1;s;1;P;h;0;m;1;0v;5;0o;2;0a;1;0f;0;1b;0;S;c;8;s;0.701;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "rhyme",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;4;h;0;d;1;z;1;0l;5;0o;2;0a;1;0f;0;1t;3;1o;3;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Rossy",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;4;h;0;0l;4;0o;2;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1s;0;1e;0;A;c;4;o;1;d;1;z;3;0t;0;0l;0;0a;1;1t;0;1o;0;1a;0.317",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "sociablEE",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;z;1;0b;0;1b;0;S;c;8;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "v1c",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;4;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Doma",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;o;1;d;1;b;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "b0i",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;d;1;m;1;0t;6;0l;1;0o;0;0a;1;0m;1;0s;0.025;0e;0.2;1b;0;A;t;2;o;1;d;1;0b;0;1b;0;S;c;0;s;0.7;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "BcJ",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;o;0.116;m;1;0l;3;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "eeiu",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;d;1;z;1;0t;1;0l;2;0a;1;0f;0;1l;5;1o;4;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Eggster",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;5;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Kiles",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "mindfreak",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;0.723;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "nAts",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Rb",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "starxo",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;s;1;P;c;5;o;1;d;1;0b;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "supamen",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;7;o;1;d;1;a;0.943;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "t3xture",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;o;0;b;1;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0;S;o;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "wo0t",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;7;o;1;d;1;0l;0;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Dizzy",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;o;1;0t;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Dzii",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0b;0;1o;1;1a;1;1m;0;1f;0;S;s;0.664;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Instagram",
+    "team": "FUNNY",
+    "code": "0;P;c;6;h;0;d;1;z;1;f;0;s;0;0t;4;0l;1;0o;2;0a;1;0f;0;1t;10;1l;1;1o;5;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Meteor",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0;S;s;1.2;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "NagZ",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;d;1;0l;3;0o;2;0a;1;0f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "purp0",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;o;1;d;1;z;1;0b;0;1b;0;S;c;6;s;0.757;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "RieNs",
+    "team": "VALORANT PRO",
+    "code": "0;c;1;s;1;P;o;1;d;1;0l;2;0v;0;0g;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Smiley Face",
+    "team": "FUNNY",
+    "code": "0;P;c;7;t;2;o;1;d;1;z;3;a;0;f;0;0t;10;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "TENNN",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "ardiis",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;s;1;P;h;0;0t;1;0l;2;0v;3;0o;0;0a;1;0f;0;1b;0;S;s;0.677;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "aspas",
+    "team": "Leviatán",
+    "code": "0;P;c;7;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#00BFFF] to-[#00008B]",
+    "avatarInitials": "LEV",
+    "category": "Pro"
+  },
+  {
+    "name": "d4v4i",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Destrian",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;m;1;0t;1;0l;1;0o;0;0a;1;0f;0;1t;1;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Jremy",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1t;1;1l;1;1o;5;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Shao",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0t;1;0o;1;0a;1;0f;0;1b;0;S;s;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "zeek",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;0l;3;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "adverso",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Diamond",
+    "team": "FUNNY",
+    "code": "0;P;c;5;h;0;d;1;z;4;f;0;0t;4;0l;1;0v;1;0g;1;0o;2;0a;1;0f;0;1l;1;1v;1;1g;1;1o;3;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Munchkin",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Shalaby",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0v;3;0o;2;0a;1;0f;0;1b;0;A;c;5;o;1;d;1;0b;0;1b;0;S;c;5;s;0.774;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Sheydos",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;7;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "soulcas",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;z;3;0b;0;1b;0;S;s;0.762",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "tex",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;o;1;0t;1;0l;2;0o;1;0a;1;0e;0.29;1b;0;S;s;0.787;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "enerii",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;m;1;0t;1;0l;0;0v;3;0o;0;0a;1;0f;0;1b;0;A;o;1;d;1;z;1;0l;0;0a;1;0f;0;1b;0;S;s;0.945;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "mada",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;m;1;0l;2;0v;3;0o;0;0a;1;0f;0;1b;0;S;c;8;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Shyy",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0;S;s;0.64",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Steel",
+    "team": "COMPETITIVE",
+    "code": "0;P;d;1;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "axeddy",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;s;1;P;c;8;o;0;b;1;m;1;0l;3;0v;2;0o;0;0a;1;0e;0.1;1b;0;A;c;8;h;0;b;1;0l;3;0o;0;0a;1;0f;0;1b;0;S;c;6;s;0.958",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Boo",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;4;0v;4;0g;1;0o;0;0a;1;0f;0;1b;0;A;o;1;d;1;0b;0;1b;0;S;c;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Candy",
+    "team": "FUNNY",
+    "code": "0;P;h;0;0t;5;0l;2;0v;0;0g;1;0a;1;0f;0;1t;3;1l;5;1v;1;1g;1;1o;1;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "heat",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;3;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Sun",
+    "team": "FUNNY",
+    "code": "0;P;c;4;h;0;f;0;0l;2;0a;1;0f;0;1t;4;1l;1;1o;0;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Carpe",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;s;0.872;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "d4v41",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "H1ber",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;d;1;z;1;m;1;0t;1;0l;2;0o;2;0a;1;1b;0;S;s;0.8;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Hiko",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;h;0;d;1;z;1;0t;1;0l;2;0a;1;0f;0;1l;5;1o;4;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "RockeT",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;s;1;P;c;5;h;0;0l;4;0v;3;0o;0;0a;1;0f;0;1b;0;S;c;1;s;0.713;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Yassa",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0;A;c;5;o;1;d;1;0b;0;1b;0;S;c;5;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "ANGE1",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;d;1;0l;3;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Horcus",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;h;0;0l;4;0v;4;0g;1;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "MiniBoo",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;7;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;z;3;0b;0;1b;0;S;c;1;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Redgar",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;s;1;P;o;0.76;d;1;m;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Reyna Flash",
+    "team": "FUNNY",
+    "code": "0;P;c;6;t;6;o;0.3;f;0;0t;1;0l;5;0o;5;0a;1;0f;0;1t;10;1l;4;1o;5;1a;0.5;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Tilted Heart",
+    "team": "FUNNY",
+    "code": "0;c;1;s;1;P;c;8;u;F97AC0FF;h;0;d;1;b;1;z;3;f;0;m;1;0t;4;0l;1;0o;2;0a;1;0f;0;1t;3;1l;1;1o;2;1a;1;1m;0;1f;0;S;b;1;c;8;t;F97AC0FF;s;0.823;o;1",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "ESMONDE",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Kai",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;z;3;0t;6;0l;0;0a;1;0f;0;1b;0;S;c;6;s;0.949;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "MaKo",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "mazin",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;h;0;d;1;b;1;z;1;0t;3;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "OXY",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;o;1;b;1;0t;1;0l;2;0v;1;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "soulcas",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;o;0;0t;1;0l;3;0v;2;0g;1;0o;1;0a;1;0f;0;1t;3;1l;1;1v;0;1g;1;1o;0;1a;1;1s;0.02;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "sScary",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Xeppaa",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;0t;1;0l;2;0v;3;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;0l;0;0o;2;0a;1;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "YuRiHaNa",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;0.969;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "jawgemo",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;7;o;1;d;1;0l;2;0v;0;0g;1;0o;0;0a;1;0f;0;1b;0;S;s;0.75;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "mwezera",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;4;h;0;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Redgar",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;h;0;d;1;b;1;z;1;0t;1;0l;1;0o;0;0a;1;0e;0.2;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "tex",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;d;1;z;1;m;1;0t;1;0l;3;0v;2;0g;1;0o;2;0a;1;0e;0.319;1t;0;1l;0;1o;0;1a;0;1m;0;1e;3;S;s;0.677;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "curry",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;d;1;0l;1;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Imperial Fighter",
+    "team": "FUNNY",
+    "code": "0;s;1;P;c;8;u;101010FF;o;1;d;1;b;1;z;6;f;0;0l;11;0v;0;0g;1;0o;0;0a;1;0f;0;1t;10;1v;0;1g;1;1o;8;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Magnum",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;o;1;0t;1;0l;3;0o;1;0a;1;0f;0;1b;0;S;c;5;s;0.8",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "QutionerX",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;d;1;z;1;0t;5;0l;1;0o;2;0a;1;0f;0;1t;1;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "RgLM",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "teddy",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;4;0v;4;0o;0;0a;1;0f;0;1b;0;S;o;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Wardell",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;h;0;b;1;0t;1;0l;4;0v;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "bryce",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Crws",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;0l;3;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Mixwell",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Nadeshot",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;m;1;0l;4;0v;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "nzr",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;0l;3;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Cryocells",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Klaus",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;4;h;0;0b;0;1l;4;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "QuarterJade",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;h;0;b;1;0t;3;0l;1;0v;1;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "S1Mon",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;z;3;0t;6;0l;0;0a;1;0f;0;1b;0;S;c;6;s;0.949;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "TENNN",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;A;c;7;h;0;d;1;z;3;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "x",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;1;o;0.95;z;2;a;1;0t;2;0l;6;0v;6;0o;2;0a;0.8;0s;1;0e;1;1t;4;1l;1;1v;1;1o;3;1a;1;1s;1;1e;1;u;D0021BFF;d;0;h;0;0g;0;1g;0;0f;0;1f;0;0m;0;1m;0;0b;1;1b;1;m;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "XiYiJi",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;3;0o;1;0a;1;0f;0;1b;0;S;c;5;s;0.6;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "yetujey",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;0l;2;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "ZmjjKK",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;m;1;0l;3;0a;1;0f;0;1b;0;S;c;4;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "ban",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0t;5;0l;1;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "cortezia",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Jamppi",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Leo",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;4;o;1;0t;1;0l;1;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "SHINSEI",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;d;1;z;1;0t;1;0l;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Laz",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;s;1;P;o;1;m;1;0t;1;0l;3;0a;1;0f;0;1b;0;A;c;7;o;0;d;1;z;3;m;1;0t;3;0l;2;0o;0;0a;0.5;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Mistic",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;0t;1;0l;2;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Rb",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;d;1;0b;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "SEIDER",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;0t;1;0l;3;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Shin",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;o;0.686;0t;1;0l;3;0o;1;0a;1;0f;0;1t;0;1l;0;1o;1;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Arrows",
+    "team": "FUNNY",
+    "code": "0;P;h;0;f;0;m;1;0t;4;0l;1;0a;1;0f;0;1l;5;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Boaster",
+    "team": "FNATIC",
+    "code": "0;P;c;1;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FFA500] to-[#FF4500]",
+    "avatarInitials": "FNC",
+    "category": "Pro"
+  },
+  {
+    "name": "Jinggg",
+    "team": "Paper Rex",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;c;5;s;0;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRX",
+    "category": "Pro"
+  },
+  {
+    "name": "JonahP",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;4;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "joojina",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0t;0;0l;0;0o;0;0a;1;1t;1;1o;0;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "MOLSI",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Saadhak",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;0;0b;0;1l;4;1o;0;1a;1;1m;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Sacy",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0t;1;0l;4;0o;1;0a;1;0f;0;1t;3;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "ShahZam",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;o;1;0l;5;0a;0.5;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "tteuw",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;5;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "aspas",
+    "team": "Leviatán",
+    "code": "0;P;c;5;o;1;d;1;z;3;0b;0;1b;0",
+    "logoColor": "from-[#00BFFF] to-[#00008B]",
+    "avatarInitials": "LEV",
+    "category": "Pro"
+  },
+  {
+    "name": "curry",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;P;c;8;o;1;b;1;m;1;0t;1;0l;4;0o;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Dumbbell",
+    "team": "FUNNY",
+    "code": "0;s;1;P;c;8;u;000000FF;t;6;o;1;d;1;b;1;z;1;a;0;f;0;m;1;0t;1;0l;20;0v;0;0g;1;0o;11;0a;1;0f;0;1t;10;1l;10;1v;0;1g;1;1o;20;1a;1;1m;0;1f;0;S;b;1;c;8;t;000000FF;s;4;o;0.47",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Ethan",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;0.503;0t;1;0g;1;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "HYUNMIN",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "JessieVash",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;d;1;0t;0;0l;0;0o;0;0a;0;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "kawaii",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;3;0v;2;0o;2;0a;1;0f;0;1b;0;S;c;0;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "neth",
+    "team": "COMPETITIVE",
+    "code": "0;P;t;2;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "RieNs",
+    "team": "VALORANT PRO",
+    "code": "0;c;1;s;1;P;h;0;0l;3;0v;4;0o;2;0a;1;0m;1;0s;0;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Zyppan",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;o;1;b;1;0t;1;0l;2;0v;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "!",
+    "team": "FUNNY",
+    "code": "0;P;c;7;t;4;o;1;d;1;z;6;a;0;f;0;0t;6;0l;4;0o;0;0a;1;0f;0;1l;5;1o;0;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "DubsteP",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1t;1;1l;1;1o;5;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Monyet",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "stellar",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;4;h;0;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "szimpli",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;z;1;0b;0;1l;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Tarik",
+    "team": "Sentinels (Streamer)",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "SEN",
+    "category": "Competitive"
+  },
+  {
+    "name": "Toes",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;1;o;1;z;2;a;1;0t;10;0l;0;0v;19;0o;3;0a;1;0s;1;0e;1;1t;6;1l;0;1v;5;1o;15;1a;0.591;1s;1;1e;1;u;EBA356;d;0;h;1;0g;1;1g;1;0f;0;1f;0;0m;0;1m;0;0b;1;1b;1;m;0;1;NaN",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "AAAAY",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0t;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "AAAAY",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;3;0o;2;0a;1;0f;0;1t;0;1l;0;1v;0;1g;1;1o;0;1a;0;1m;0;1f;0;S;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "derrek",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;m;1;0l;2;0v;1;0g;1;0o;0;0a;1;0f;0;1b;0;S;s;0.652;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Ethan",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Foxz",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;h;0;0t;1;0l;4;0o;1;0a;1;0f;0;1t;3;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Haodong",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;0t;1;0l;2;0a;1;0f;0;1b;0;S;s;0.64;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "keznit",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;0b;0;1t;1;1l;3;1v;3;1g;1;1o;2;1a;1;1m;0;1f;0;A;o;1;d;1;0t;0;0l;0;0o;0;0a;0;1l;0;1a;0;S;c;0;s;0.701;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Mushrooms",
+    "team": "FUNNY",
+    "code": "0;P;o;1;f;0;0t;4;0l;1;0o;5;0a;0;0f;0;1l;4;1o;3;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Snowflake",
+    "team": "FUNNY",
+    "code": "0;P;c;8;u;DB7093FF;h;0;b;1;f;0;0o;0;0a;1;0f;0;1t;4;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "tuys",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;d;1;z;3;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "JonahP",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;3;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Mistic",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "neT",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "BerLIN",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0t;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "sarah",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;t;2;o;1;d;1;0l;2;0v;4;0o;0;0a;1;0f;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Shanks",
+    "team": "COMPETITIVE",
+    "code": "0;p;0;c;1;s;1;P;c;5;u;00DD00FF;h;0;f;0;m;1;0l;4;0v;3;0o;1;0a;0.317;0f;0;1l;3;1o;1;1a;0.616;1m;0;1f;0;A;c;4;o;0.515;m;1;0t;1;0l;3;0v;3;0o;1;0a;1;0f;0;1b;0;S;c;1;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "sunflower",
+    "team": "FUNNY",
+    "code": "0;P;c;8;u;F0FF00FF;o;1;b;1;0t;8;0l;2;0v;2;0o;4;0a;1;0f;0;1o;5;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "zeek",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;3;0o;0;0a;1;0f;0;1b;0;S;c;0;s;1.458;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "havoc",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;4;0v;3;0o;0;0a;1;0f;0;1b;0;A;o;0;d;1;z;1;0l;2;0o;0;0a;1;0f;0;1b;0;S;c;0;s;1.288",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "MAGNUM",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;0t;1;0l;2;0v;3;0o;0;0a;1;0m;1;0s;0;0f;0;1b;0;S;s;0;o;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Zellsis",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;0t;5;0l;1;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "zombs",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "icy",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;3;0o;0;0a;1;0f;0;1b;0;S;c;5;s;0.726;o;0.9",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "jzz",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;5;0v;0;0g;1;0a;1;0f;0;1l;0;1v;4;1g;1;1o;2;1a;1;1m;0;1f;0;S;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "MaKo",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;o;1;0l;4;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Surf",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;c;8;s;0.823",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Asuna",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;0t;1;0l;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Flappy Bird",
+    "team": "FUNNY",
+    "code": "0;c;1;s;1;P;c;8;u;008000FF;t;3;o;1;b;1;0t;4;0l;0;0v;18;0g;1;0o;10;0a;1;0f;0;1t;10;1l;0;1v;4;1g;1;1o;7;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Mendo",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;d;1;0t;0;0l;0;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Ninja",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0l;7;0v;7;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Sayonara",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;c;0;s;0.457",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "tomaszy",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;3;h;0;0l;2;0o;1;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0;A;o;1;d;1;0b;0;1b;0;S;s;0.638;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "xccurate",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Governor",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "heat",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;m;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "pAura",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1t;0;1l;0;1o;9;1a;0;1m;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "polvi",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;m;1;0t;1;0l;5;0v;5;0o;1;0a;1;0f;0;1b;0;S;s;0.85;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "XAROLA",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;h;0;d;1;z;1;0v;4;0o;0;0a;1;0f;0;1b;0;A;o;1;d;1;z;3;0b;0;1b;0;S;c;0;s;1.398;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "cNed",
+    "team": "FUT Esports",
+    "code": "0;P;c;1;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF5500] to-[#111111]",
+    "avatarInitials": "FUT",
+    "category": "Pro"
+  },
+  {
+    "name": "FNS",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;0l;3;0o;5;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Lmemore",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0t;1;0l;2;0v;3;0o;1;0a;1;0f;0;1t;0;1o;0;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Patiphan",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;o;1;0t;1;0l;3;0o;2;0a;1;0m;1;0s;0.03;0f;0;1b;0;S;c;1;s;0.9;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Reduxx",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "soulcas",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;z;1;0t;1;0l;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Star",
+    "team": "FUNNY",
+    "code": "0;P;h;0;f;0;0l;4;0o;2;0a;1;0f;0;1t;8;1l;1;1o;1;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "surf",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "wLn",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;3;0o;0;0a;1;0f;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "xms",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "BONECOLD",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;0l;3;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "BORKUM",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;h;0;0l;4;0o;2;0a;1;0f;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "garnetS",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;0.83;d;1;z;3;a;0.808;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "nataNK",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "QutionerX",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Zyppan",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1t;1;1l;0;1o;0;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "5 Dots",
+    "team": "FUNNY",
+    "code": "0;c;1;s;1;P;c;5;h;0;d;1;z;6;f;0;0t;6;0v;0;0g;1;0o;9;0a;1;0f;0;1t;6;1l;6;1v;0;1g;1;1o;21;1a;1;1m;0;1f;0;S;c;5;o;1",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Curry",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;h;0;b;1;0l;3;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Dep",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;0.1;0t;1;0l;2;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "f0rsaken",
+    "team": "Paper Rex",
+    "code": "0;P;h;0;0l;4;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRX",
+    "category": "Pro"
+  },
+  {
+    "name": "Hollow Circle",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;1;o;0.5;z;2;a;1;0t;6;0l;1;0v;1;0o;3;0a;1;0s;1;0e;1;1t;2;1l;2;1v;2;1o;10;1a;0.35;1s;1;1e;1;u;FFFFFF;d;0;h;0;0g;0;1g;0;0f;0;1f;1;0m;0;1m;1;0b;1;1b;0;m;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "JitBoyS",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "pryze",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;h;0;b;1;0l;4;0v;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Redgar",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;h;0;0t;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "runi",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0t;1;0l;4;0v;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Shroud",
+    "team": "Sentinels (Legend)",
+    "code": "0;P;c;4;h;0;0l;5;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "SEN",
+    "category": "Competitive"
+  },
+  {
+    "name": "BABYBAY",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;6;o;1;d;1;m;1;0l;2;0v;7;0o;0;0a;1;0f;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Cross Eyes",
+    "team": "FUNNY",
+    "code": "0;c;1;s;1;P;t;4;o;1;d;1;z;5;a;0.556;0t;10;0l;20;0v;0;0g;1;0o;13;0a;1;0f;0;1t;1;1l;1;1v;0;1g;1;1o;14;1a;1;1s;0.064;1e;0.375;S;c;0;s;0.628;o;1",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "dimasick",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;d;1;0t;0;0l;0;0o;0;0a;0;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "f0rsaken",
+    "team": "Paper Rex",
+    "code": "0;s;1;P;c;7;h;0;0v;0;0o;0;0a;1;0f;0;1b;0;A;c;7;h;0;0l;2;0o;0;0a;1;0f;0;1b;0;S;c;0;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRX",
+    "category": "Pro"
+  },
+  {
+    "name": "Nadeshot",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;o;1;0t;1;0l;3;0a;1;0f;0;1b;0;S;c;5;s;1.178",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "PROFEK",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;c;8;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "trexx",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Vera",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;h;0;b;1;0l;4;0v;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "COLDFISH",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "N44RRATE",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;0t;1;0l;3;0v;3;0o;0;0a;1;0f;0;1b;0;S;s;0.996;o;0.762",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "RieNs",
+    "team": "VALORANT PRO",
+    "code": "0;c;1;s;1;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Sheydos",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;2;0v;4;0o;1;0a;1;0f;0;1l;0;1o;3;1a;1;1m;0;1f;0;S;s;1.007;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Yuicaw",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Derke",
+    "team": "FNATIC",
+    "code": "0;s;1;P;o;1;0t;1;0l;4;0v;0;0o;2;0a;1;0f;0;1t;0;1l;1;1o;0;1a;1;1m;0;1f;0;S;o;1",
+    "logoColor": "from-[#FFA500] to-[#FF4500]",
+    "avatarInitials": "FNC",
+    "category": "Pro"
+  },
+  {
+    "name": "Ender",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;c;0;o;0.997",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "nobody",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;h;0;b;1;0b;0;1t;3;1l;4;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Verno",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Wailers",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;o;1;0t;1;0l;2;0v;3;0o;2;0a;1;0f;0;1b;0;A;c;7;o;1;d;1;0b;0;1b;0;S;s;0.922;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "al0rante",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;7;h;0;d;1;m;1;0t;1;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Felix",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Kicks",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "SugarZ3ro",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Tenz",
+    "team": "Sentinels",
+    "code": "0;P;d;1;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "SEN",
+    "category": "Competitive"
+  },
+  {
+    "name": "tixx",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;3;0o;2;0a;1;0f;0;1b;0;S;c;5;s;0.8;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "kamyk",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;o;1;b;1;m;1;0l;4;0v;4;0o;2;0a;1;0f;0;1b;0;S;c;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Lsn",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;3;0o;1;0a;1;0f;0;1b;0;S;c;5;s;0.6;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Mazino",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;h;0;0l;3;0o;2;0a;1;0f;0;1b;0;S;c;1;s;0.628",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "stavros",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;0l;4;0v;3;0g;1;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "YOME",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;d;1;z;3;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Khalil",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;h;0;b;1;0l;4;0o;0;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Lysoar",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Minecraft Steve",
+    "team": "FUNNY",
+    "code": "0;P;c;5;t;2;o;1;0t;6;0l;4;0v;3;0g;1;0o;0;0a;1;0f;0;1t;6;1v;6;1g;1;1o;5;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "xand",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "xeta",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;o;1;0l;3;0o;6;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "zekken",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;t;2;o;1;d;1;0b;0;1b;0;S;c;8;s;0.823",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Zellsis",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;0t;1;0l;2;0v;3;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;0l;0;0o;2;0a;1;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "aceu",
+    "team": "COMPETITIVE",
+    "code": "0;P;0t;1;0l;3;0v;3;0g;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Athan",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;A;o;1;d;1;0b;0;1b;0;S;o;0.5",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Less",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "LuoK1ng",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;m;1;0l;3;0o;0;0a;1;0f;0;1b;0;S;c;5;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Tarik",
+    "team": "Sentinels (Streamer)",
+    "code": "0;s;1;P;o;1;d;1;0l;1;0o;1;0a;1;0f;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "SEN",
+    "category": "Competitive"
+  },
+  {
+    "name": "trent",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;0t;1;0o;1;0a;1;0f;0;1l;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "vanity",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;h;0;b;1;m;1;0l;3;0v;5;0o;2;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0;A;o;1;d;1;0b;0;1t;0;1l;0;1o;0;1a;0;S;c;4;s;0.6",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "bucher",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "dgzin",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;4;o;1;m;1;0t;1;0l;1;0a;0;0f;0;1t;1;1l;1;1o;4;1a;0;1m;0;1f;0;S;c;0;s;0.591;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "rich",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;3;0v;3;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "saadhak",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Sinatraa",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;0t;1;0l;3;0a;1;0f;0;1b;0;S;c;5;s;1.178",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Zander",
+    "team": "VALORANT PRO",
+    "code": "0;c;1;s;1;P;o;0;0t;1;0l;4;0v;3;0o;1;0a;1;0f;0;1b;0;S;c;0;s;0.716;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "zekken",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Clown",
+    "team": "FUNNY",
+    "code": "0;P;c;7;t;2;o;1;d;1;z;3;f;0;0t;10;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "foxy9",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;3;0v;3;0o;0;0a;1;0f;0;1b;0;S;c;5;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Jini",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;3;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "JonahP",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;4;h;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "legally blind",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;6;o;1;z;6;a;1;0t;10;0l;20;0v;20;0o;20;0a;1;0s;3;0e;3;1t;1;1l;10;1v;10;1o;40;1a;1;1s;3;1e;3;u;FFFFFF;d;1;h;1;0g;0;1g;0;0f;1;1f;1;0m;1;1m;1;0b;1;1b;1;m;1",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "mwzera",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;d;1;z;1;m;1;0t;1;0l;2;0v;1;0g;1;0o;1;0a;1;0e;0.196;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "qck",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;5;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;0b;0;1b;0;S;s;1.263;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "something",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;z;1;0t;1;0l;3;0o;2;0a;1;0f;0;1l;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "SyouTa",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Ache",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;c;4;s;0.7;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Boaster",
+    "team": "FNATIC",
+    "code": "0;s;1;P;c;1;t;2;o;1;0o;2;0a;1;0f;0;1b;0;A;d;1;0b;0;1b;0;S;o;0.502",
+    "logoColor": "from-[#FFA500] to-[#FF4500]",
+    "avatarInitials": "FNC",
+    "category": "Pro"
+  },
+  {
+    "name": "C0M",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;0t;1;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "ceNder",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "keloqz",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;d;1;0l;0;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "MrFaliN",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "WudiYuChEn",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0t;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "ardiis",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;3;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "ChiaWei",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;4;0v;3;0g;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "hoody",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;0l;2;0v;0;0o;1;0a;1;0f;0;1b;0;S;s;0.64",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Melser",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0l;3;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "trent",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Yosemite",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;0.6;0t;1;0l;2;0v;0;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Ambi",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;5",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Crazyface",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;d;1;m;1;0l;2;0v;1;0a;1;0e;0.7;1b;0;S;c;0;s;0.652;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "jzz",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Magnus",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;2;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "my dad",
+    "team": "FUNNY",
+    "code": "0;s;1;P;c;5;h;0;0b;0;1b;0;S;s;0.628;o;1",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "S1mple",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;o;1;0l;5;0v;5;0o;2;0a;1;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Seoldam",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Steering Wheel",
+    "team": "FUNNY",
+    "code": "0;P;c;7;o;1;d;1;0l;4;0o;1;0a;0;0f;0;1t;6;1l;1;1o;3;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Tacolilla",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0t;1;0o;2;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0;S;o;0.5",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Tenz",
+    "team": "Sentinels",
+    "code": "0;s;1;P;c;5;h;0;m;1;0l;3;0o;0;0a;1;0f;0;1b;0;S;c;5;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "SEN",
+    "category": "Competitive"
+  },
+  {
+    "name": "zekken",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;t;2;o;1;d;1;0l;1;0o;1;0a;1;0f;0;1b;0;S;c;8;s;0.823",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "AdrianL",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;s;1;P;o;1;d;1;m;1;0b;0;1b;0;S;c;3;s;0.852;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Fisker",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "garnetS",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;d;1;z;1;m;1;0t;1;0l;3;0o;1;0a;1;0f;0;1b;0;S;c;4;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Globe",
+    "team": "FUNNY",
+    "code": "0;P;o;1;f;0;0t;10;0l;4;0a;0;0f;0;1t;4;1o;6;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Kanpeki",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;m;1;0l;4;0v;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "N4RRATE",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;0t;1;0l;3;0v;3;0g;1;0o;1;0a;1;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "ninebody",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;3;0o;1;0a;1;0f;0;1b;0;S;c;5;s;0.6;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "RgLM",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;c;4;s;0.628",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "runneR",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0l;0;0o;0;0a;1;0f;0;1b;0;S;c;6;s;0.908",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Tarik",
+    "team": "Sentinels (Streamer)",
+    "code": "0;P;h;0;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "SEN",
+    "category": "Competitive"
+  },
+  {
+    "name": "zeek",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0t;0;0l;16;0v;11;0g;1;0o;0;0f;0;1b;0;S;c;0;s;1.417;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Crws",
+    "team": "VALORANT PRO",
+    "code": "0;c;1;s;1;P;c;5;h;0;0l;2;0o;2;0a;1;0f;0;1b;0;S;c;5;s;0.799;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Derke",
+    "team": "FNATIC",
+    "code": "0;P;c;8;o;1;d;1;b;1;0b;0;1b;0",
+    "logoColor": "from-[#FFA500] to-[#FF4500]",
+    "avatarInitials": "FNC",
+    "category": "Pro"
+  },
+  {
+    "name": "Doenmo",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;0t;1;0l;1;0o;0;0a;1;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Enzo",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;0t;1;0o;1;0a;1;0f;0;1b;0;S;s;0.8",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "f0rsakeN",
+    "team": "Paper Rex",
+    "code": "0;s;1;P;o;1;0t;3;0l;1;0v;0;0g;1;0o;0;0a;1;0f;0;1t;1;1l;4;1g;1;1o;0;1a;1;1m;0;1f;0;S;c;0;s;0.9;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRX",
+    "category": "Pro"
+  },
+  {
+    "name": "FirstLove",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0;S;c;0;s;1.5;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "gold",
+    "team": "FUNNY",
+    "code": "0;P;c;8;u;FFD000;t;3;d;1;b;1;z;6;0t;10;0o;4;0f;0;1l;4;1v;4;1o;9;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Klaus",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;3;0v;3;0o;0;0a;1;0f;0;1b;0;S;c;8;s;1.007;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "MaKo",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "mazin",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;0t;1;0l;1;0o;0;0a;0;1t;1;1l;1;1o;1;1a;0;1m;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Monyet",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;o;0.506;m;1;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0;S;s;0.677;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Sayf",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;7;h;0;d;1;z;3;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "SUYGETSU",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;0l;3;0o;2;0a;1;0f;0;1b;0;S;c;6;s;0.949;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Tenz",
+    "team": "Sentinels",
+    "code": "0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "SEN",
+    "category": "Competitive"
+  },
+  {
+    "name": "UNFAKE",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;3;h;0;0t;6;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Less",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;0;0t;1;0l;2;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Meteor",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Stax",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;4;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Windows",
+    "team": "FUNNY",
+    "code": "0;P;c;5;o;1;d;1;z;6;0b;0;1t;6;1l;3;1o;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "7ssk7",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;4;0v;3;0g;1;0o;2;0a;1;0f;0;1b;0;S;c;0;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Benkai",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;P;h;0;d;1;z;3;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Boxes",
+    "team": "FUNNY",
+    "code": "0;P;o;1;d;1;a;0;f;0;0t;8;0l;2;0o;5;0a;0;0f;0;1l;8;1o;2;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Jamppi",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Klaus",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;o;1;0t;1;0l;3;0o;1;0a;1;0f;0;1t;0;1l;0;1a;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "meL",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;h;0;0t;1;0l;5;0o;0;0a;1;0e;0.6;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "mindfreak",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;d;1;0l;5;0o;0;0a;1;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "moose",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "whzy",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;6;t;2;o;1;d;1;0t;1;0l;0;0o;2;0a;0;0f;0;1t;3;1l;0;1o;1;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Chronicle",
+    "team": "FNATIC",
+    "code": "0;s;1;P;c;1;o;1;0l;5;0v;3;0o;4;0a;1;0f;0;1b;0;S;c;0;s;1.019;o;1",
+    "logoColor": "from-[#FFA500] to-[#FF4500]",
+    "avatarInitials": "FNC",
+    "category": "Pro"
+  },
+  {
+    "name": "Daisy",
+    "team": "FUNNY",
+    "code": "0;P;h;0;0t;10;0l;3;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "FengF",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;z;1;0t;6;0l;0;0a;1;0f;0;1b;0;S;c;6;s;0.949;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Grimm",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;7;0l;3;0o;0;0a;1;0f;0;1t;6;1l;1;1o;0;1a;1;1m;0;1f;0;S;s;0.9;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "icy",
+    "team": "VALORANT PRO",
+    "code": "0;c;1;s;1;P;c;8;o;1;d;1;b;1;0b;0;1b;0;S;c;8;s;0.762",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Less",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1t;0;1l;0;1o;0;1a;1;1m;0;1f;0;A;o;1;d;1;z;3;0t;0;0l;0;0o;0;0a;0;1t;0;1l;0;1o;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Lothar",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;3;o;0.616;d;1;z;4;a;0.666;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "purp0",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;4;0v;3;0o;0;0a;1;0f;0;1b;0;S;c;6;s;0.606;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Shyy",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;h;0;b;1;0b;0;1l;4;1v;4;1o;0;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Yosemite",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;0.6;0t;1;0l;2;0v;0;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "LAMMYSNAX",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;0l;2;0v;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "mazin",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "nukkye",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "something",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;0.619;d;1;0t;1;0l;0;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "tuyz",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Foxar",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;0;0l;3;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "frz",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0l;1;0o;1;0a;1;0f;0;1b;0;S;c;0;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "iDex",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;o;0.515;0t;1;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;0;s;0.958",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "jawgemo",
+    "team": "VALORANT PRO",
+    "code": "0;c;1;s;1;P;c;7;h;0;0t;3;0l;9;0o;2;0a;1;0f;0;1b;0;S;c;1;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "whyzy",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;o;0.6;b;1;0t;1;0l;2;0a;0;0f;0;1t;1;1o;2;1a;1;1m;0;1f;0;S;c;8;s;0.511;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "bronze",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;3;o;0.5;z;6;a;0.8;0t;10;0l;6;0v;6;0o;4;0a;0.4;0s;1;0e;1;1t;2;1l;4;1v;4;1o;9;1a;1;1s;1;1e;1;u;AF8766FF;d;1;h;1;0g;0;1g;0;0f;0;1f;0;0m;0;1m;0;0b;1;1b;1;m;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "fl1pzjder",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;s;0.7;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "pANcada",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Plungers",
+    "team": "FUNNY",
+    "code": "0;P;c;6;t;3;o;0.25;d;1;z;3;a;0.5;f;0;m;1;0t;1;0l;17;0o;20;0a;1;0m;1;1t;9;1l;7;1o;15;1a;0.5;1m;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Smoggy",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;0.3;0l;3;0v;4;0o;2;0a;1;0f;0;1b;0;A;o;0.3;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "zekken",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;o;1;d;1;b;1;0l;0;0o;0;0a;0;0f;0;1b;0;S;c;0;s;0.5;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "BONECOLD",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;h;0;0l;2;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "derrek",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1t;1;1l;0;1o;0;1m;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "hoody",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;s;0.628;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "invy",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;0t;1;0l;1;0o;2;0a;0;0f;0;1t;1;1l;1;1v;3;1o;3;1a;0;1m;0;1f;0;S;o;0.8",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "keloqz",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0o;0;0a;1;0f;0;1b;0;A;c;5;o;1;d;1;z;3;m;1;0l;0;0o;6;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "pANcada",
+    "team": "VALORANT PRO",
+    "code": "0;c;1;s;1;P;c;4;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "SugarZ3ro",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;d;1;z;3;0t;6;0l;0;0a;1;0f;0;1b;0;S;c;6;s;0.949",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Tenz",
+    "team": "Sentinels",
+    "code": "0;s;1;P;c;5;h;0;0l;5;0v;0;0g;1;0a;1;0f;0;1l;0;1v;4;1g;1;1o;2;1a;1;1m;0;1f;0;S;c;5;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "SEN",
+    "category": "Competitive"
+  },
+  {
+    "name": "Kyedae",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0l;2;0v;4;0o;0;0a;1;0f;0;1b;0;S;c;8;s;0.713;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "L1NK",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0t;1;0l;4;0o;1;0a;1;0f;0;1t;3;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "lowel",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;d;1;0l;0;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "ScreaM",
+    "team": "Karmine Corp",
+    "code": "0;s;1;P;c;5;o;1;d;1;z;3;0t;6;0l;0;0a;1;0f;0;1b;0;S;c;6;s;0.949;o;1",
+    "logoColor": "from-[#0055A5] to-[#001A30]",
+    "avatarInitials": "KC",
+    "category": "Competitive"
+  },
+  {
+    "name": "AC",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Among Us",
+    "team": "FUNNY",
+    "code": "0;P;c;5;t;3;o;1;f;0;m;1;0t;4;0l;5;0o;0;0a;1;0f;0;1t;8;1l;3;1o;0;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "C0M",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;4;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "dimasick",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;o;1;b;1;0t;1;0l;2;0v;2;0o;2;0a;1;0f;0;1l;0;1o;3;1a;1;1m;0;1f;0;S;s;1.007;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Sacy",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;c;5;s;0.7",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Alfajer",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;d;1;z;3;0b;0;1b;0;S;s;0.628;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "autumn",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1t;1;1l;0;1o;0;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Autumn",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;o;1;d;1;0b;0;1b;0;S;c;1;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "cgrs",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;o;1;0t;10;0l;20;0o;1;0a;0.027;0f;0;1b;0;S;c;1;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "FNS",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0l;3;0v;3;0g;1;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "foxz",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;s;1;P;c;5;h;0;0l;3;0o;0;0a;1;0f;0;1b;0;S;c;5;s;0.812;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "heybay",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;h;0;0t;4;0l;4;0v;4;0g;1;0o;2;0a;1;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "K1ra",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Klaus",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Nivera",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0;S;c;5;o;0.5",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "qck",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;d;1;z;3;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "qRaxs",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0t;1;0l;4;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "TCKU",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;u;900000FF;o;1;d;1;0l;2;0o;0;0a;1;0f;0;1b;0;S;c;0;s;0.509;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Abo",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;c;0;s;0.8;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "bang",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;4;0o;0;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "crazyguy",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;4;0v;4;0g;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Flower",
+    "team": "FUNNY",
+    "code": "0;P;c;6;o;1;d;1;z;4;f;0;m;1;0t;8;0l;3;0o;2;0a;0;0f;0;1l;3;1o;3;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "kovaQ",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;0l;2;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Marved",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;m;1;0l;4;0v;2;0g;1;0o;2;0a;1;0f;0;1b;0;S;c;0;s;1.691;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "nataNk",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;z;1;0t;1;0l;3;0v;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "RobbieBk",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;7;h;0;0l;3;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "s0m",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;4;0v;5;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "wippie",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;0t;1;0l;3;0o;4;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Chronicle",
+    "team": "FNATIC",
+    "code": "0;P;c;7;o;1;0t;1;0l;2;0v;2;0g;1;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FFA500] to-[#FF4500]",
+    "avatarInitials": "FNC",
+    "category": "Pro"
+  },
+  {
+    "name": "hiro",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;c;8;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Magnum",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;z;1;m;1;0t;1;0l;3;0v;3;0o;1;0a;1;0f;0;1b;0;S;c;5;s;0.76;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Saadhak",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;0t;1;0l;3;0v;2;0g;1;0o;1;0a;1;0e;0.2;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Smoggy",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;2;o;1;d;1;0b;0;1b;0;S;c;0;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Soulcas",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "7ssk7",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;s;1;P;c;5;h;0;0l;4;0o;2;0a;1;0f;0;1b;0;S;c;0;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "BabyJ",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;0l;2;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0;S;s;0.77;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "CHICHOO",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0o;0;0a;1;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "frz",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Melser",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Reverie",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;o;0.751;d;1;0b;0;1b;0;S;c;0;s;0.75;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Sage Orb",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;6;o;0.3;z;2;a;1;0t;1;0l;5;0v;5;0o;5;0a;1;0s;1;0e;1;1t;10;1l;4;1v;4;1o;5;1a;0.5;1s;1;1e;1;u;50E3C2FF;d;0;h;1;0g;0;1g;0;0f;0;1f;0;0m;0;1m;0;0b;1;1b;1;m;0;f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Shao",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;0.75;d;1;0l;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "stax",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Tacolilla",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0;S;c;5;s;0.75",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "TvirusLuke",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;0.616;d;1;0t;0;0l;0;0o;0;0a;0;0e;0;1t;0;1l;0;1o;0;1a;0;1s;0;1e;0;S;c;1;s;0.704",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Boo",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;h;0;b;1;0l;2;0v;2;0g;1;0o;0;0a;1;0f;0;1l;5;1v;3;1g;1;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "d4v41",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Drakonz",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;7;o;0.371;d;1;0t;6;0l;1;0o;0;0a;1;0f;0;1t;6;1l;1;1o;0;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "heat",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "keznitdeuS",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Leo",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;3;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "NagZ",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;o;1;d;1;0l;0;0o;2;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;S;c;1;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "neptuNo",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;d;1;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "random",
+    "team": "FUNNY",
+    "code": "0;P;c;6;o;0.35;0t;10;0l;20;0a;0;0f;0;1l;1;1o;23;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "runneR",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;h;0;b;1;0l;3;0v;1;0o;0;0a;1;0f;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "xccurate",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "ZexRow",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;0;0l;4;0v;3;0o;2;0a;1;0f;0;1b;0;S;c;5;s;0.787;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Cloud",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;h;0;b;1;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Corey",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;d;1;z;1;m;1;0t;1;0l;2;0v;2;0o;2;0a;1;1b;0;S;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "crashies",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;3;0v;3;0g;1;0o;2;0a;1;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "PoPiFresH",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;d;1;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Scales",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0l;4;0v;3;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "seangares",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Xeppaa",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;4;0o;2;0a;1;0f;0;1b;0;A;o;0.8;d;1;0b;0;1b;0;S;c;5;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "aproto",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;h;0;b;1;0t;6;0l;1;0v;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "bstrdd",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Flex1n",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;h;0;b;1;0l;0;0o;2;0a;1;0e;0.3;1l;4;1o;2;1a;1;1m;0;1e;0.3",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Mazin",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;h;0;d;1;b;1;z;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "PTC",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;0l;4;0a;0.55;0f;0;1l;0;1a;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Reita",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;d;1;z;1;m;1;0t;1;0l;2;0o;2;0a;1;0e;0.8;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Skanoodles",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "SkRossi",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;o;1;d;1;b;1;0b;0;1l;0;1a;0;S;c;0;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Sushiboys",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;5;0v;5;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "tuyz",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;m;1;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "valyn",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;o;1;0t;1;0l;3;0a;1;0f;0;1b;0;S;s;0.65",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "chiwa",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;o;1;d;1;b;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Jamppi",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Jinggg",
+    "team": "Paper Rex",
+    "code": "0;s;1;P;o;1;0l;3;0v;2;0g;1;0o;1;0a;1;0f;0;1b;0;S;s;0.5;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRX",
+    "category": "Pro"
+  },
+  {
+    "name": "sScary",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;s;1;P;c;5;h;0;0l;4;0v;0;0o;0;0a;1;0f;0;1b;0;S;c;5;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Zest",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;o;1;0l;4;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Crosses",
+    "team": "FUNNY",
+    "code": "0;P;h;0;d;1;z;3;f;0;0t;3;0l;14;0o;6;0a;1;0f;0;1t;9;1l;3;1o;12;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "crow",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;d;1;z;3;0t;1;0l;1;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "foxz",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;b;1;0t;1;0l;3;0o;0;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0;S;c;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "kiNgg",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;3;0v;5;0o;1;0a;1;0m;1;0s;0.02;0e;0.1;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "crazyguy",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Cryocells",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "ethos",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0t;6;0l;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "hiroronn",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;z;3;0t;0;0l;0;0v;2;0o;0;0a;1;0f;0;1b;0;A;c;8;o;1;d;1;b;1;m;1;0b;0;1b;0;S;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "iNTRO",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;4;o;1;d;1;z;3;0l;0;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "ScreaM",
+    "team": "Karmine Corp",
+    "code": "0;s;1;P;o;1;0t;1;0l;1;0o;4;0a;1;0f;0;1t;1;1l;1;1o;3;1a;0;1m;0;1f;0;S;c;0",
+    "logoColor": "from-[#0055A5] to-[#001A30]",
+    "avatarInitials": "KC",
+    "category": "Competitive"
+  },
+  {
+    "name": "Shin",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;7;o;1;0t;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Jinggg",
+    "team": "Paper Rex",
+    "code": "0;s;1;P;c;1;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0;S;c;5",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRX",
+    "category": "Pro"
+  },
+  {
+    "name": "Lakia",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0t;5;0l;1;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "liazzi",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;3;o;1;0l;2;0o;2;0a;1;0f;0;1b;0;A;h;0;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0;S;c;5;s;0.677;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Meteor",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0;S;c;0;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Mixwell",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;4;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "qck",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;2;o;1;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Saadhak",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "USB Sticks",
+    "team": "FUNNY",
+    "code": "0;P;o;1;f;0;0t;3;0l;2;0a;1;0f;0;1t;1;1l;5;1o;2;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "vo0kashu",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;7;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "AsLanM4shadoW",
+    "team": "COMPETITIVE",
+    "code": "0;P;o;1;0l;4;0v;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Averagejonas",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;8;o;0;d;1;b;1;m;1;0t;6;0l;1;0o;1;0a;1;0e;0.25;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "eeiu",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;b;1;m;1;0t;1;0l;2;0v;2;0o;2;0a;1;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Jinboong",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;o;0.802;d;1;0l;0;0o;1;0f;0;1b;0;A;c;4;o;1;d;1;z;1;0t;0;0l;0;0a;0;1l;0;1a;0;S;c;0;s;0.563;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "LewN",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;c;8;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "mwzera",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;4;h;0;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "mwzera",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;5;o;1;d;1;0l;0;0o;2;0a;0;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Valkyrae",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;7;h;0;d;1;z;4;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "YuCheN",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0t;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Duck",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;4;o;1;d;1;z;6;a;0;m;1;0t;10;0l;10;0v;0;0g;1;0o;17;0a;0;0f;0;1t;6;1l;0;1v;3;1g;1;1o;0;1a;1;1m;0;1e;0.281;S;c;7",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "hfmi0dzjc9z7",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;5;h;0;0l;3;0o;1;0a;1;0f;0;1b;0;A;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "k1Ng",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "cauanzin",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Demon1",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;0t;1;0l;3;0v;3;0o;2;0a;1;0f;0;1b;0;A;o;1;0t;1;0l;3;0o;2;0a;1;0f;0;1b;0;S;c;1;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "dimasick",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;d;1;z;3;0t;1;0l;1;0o;1;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Jinggg",
+    "team": "Paper Rex",
+    "code": "0;s;1;P;c;5;h;0;m;1;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRX",
+    "category": "Pro"
+  },
+  {
+    "name": "joshh",
+    "team": "COMPETITIVE",
+    "code": "0;P;h;0;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Mixwell",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;7;o;1;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0;A;c;1;o;1;d;1;0b;0;1b;0;S;s;0.359;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Rico",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;7;h;0;0l;3;0v;20;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Brave",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0l;4;0o;2;0a;1;0f;0;1b;0;A;o;1;d;1;0b;0;1b;0;S;s;0.542;o;0.768",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "clear",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0t;1;0l;5;0o;1;0a;1;0f;0;1t;3;1l;3;1o;2;1a;0.301;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "mindfreak",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "derrek",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;1;o;1;0t;1;0l;3;0a;1;0f;0;1b;0;S;s;0.652",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Foxy9",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Jremy",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;z;1;a;0.742;0b;0;1t;1;1g;1;1o;1;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "MaKo",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;1;0l;4;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "neth",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;d;1;0t;4;0l;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "nobody",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;m;1;0t;1;0l;2;0v;2;0g;1;0o;2;0a;1;0f;0;1b;0;S;c;5;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Palla",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;m;1;0l;2;0v;1;0g;1;0o;0;0a;1;0f;0;1b;0;S;c;0;s;0.774;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "paTiTek",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;0b;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "ZmjjKK",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;1;d;1;z;1;0t;0;0l;4;0v;2;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "bang",
+    "team": "VALORANT PRO",
+    "code": "0;P;h;0;0l;4;0v;4;0g;1;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Boaster",
+    "team": "FNATIC",
+    "code": "0;s;1;P;c;5;o;1;d;1;0l;0;0a;1;0f;0;1t;0;1l;0;1o;0;1a;0;1f;0;S;c;1;o;1",
+    "logoColor": "from-[#FFA500] to-[#FF4500]",
+    "avatarInitials": "FNC",
+    "category": "Pro"
+  },
+  {
+    "name": "Boxes",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;2;o;1;z;2;a;1;0t;10;0l;0;0v;4;0o;3;0a;1;0s;1;0e;1;1t;10;1l;0;1v;4;1o;13;1a;1;1s;1;1e;1;u;D0021B;d;0;h;1;0g;1;1g;1;0f;0;1f;0;0m;0;1m;1;0b;1;1b;1;m;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "geeza",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;5;h;0;0l;4;0o;1;0a;0.418;0f;0;1o;2;1a;1;1m;0;1f;0;S;c;2;s;0.42;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Hiko",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0l;4;0o;2;0a;1;0m;1;0s;0.02;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "mimi",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;0.25;m;1;0l;4;0o;2;0a;1;0f;0;1t;0;1o;11;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "qRaxs",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "AYRIN",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;1;h;0;0t;1;0l;2;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Cursor",
+    "team": "FUNNY",
+    "code": "0;P;h;0;d;1;z;5;0b;0;1t;6;1l;1;1o;1;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "marteen",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;h;0;0l;3;0o;0;0a;1;0f;0;1b;0;A;h;0;0t;5;0l;1;0o;2;0a;1;0f;0;1b;0;S;c;3;s;0.9;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Melser",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;h;0;0l;4;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Sevkaan",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;1;t;2;o;1;d;1;0b;0;1b;0;S;c;8;s;0.823",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "starxo",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;c;8;o;0.402;b;1;0l;3;0o;0;0a;1;0f;0;1t;6;1l;1;1o;0;1a;1;1m;0;1f;0;S;s;0.97;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "SuperBusS",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;h;0;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "baddyG",
+    "team": "COMPETITIVE",
+    "code": "0;c;1;s;1;P;c;5;o;1;d;1;0b;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "duck",
+    "team": "FUNNY",
+    "code": "0;P;c;8;b;1;t;1;o;0.5;z;2;a;1;0t;10;0l;0;0v;2;0o;0;0a;0.8;0s;1;0e;0.168;1t;8;1l;10;1v;0;1o;17;1a;0.226;1s;1;1e;1;u;FFFF00;d;0;h;1;0g;1;1g;1;0f;1;1f;0;0m;0;1m;0;0b;1;1b;1;m;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Less",
+    "team": "VALORANT PRO",
+    "code": "0;P;o;0.75;d;1;0l;2;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "paTiTek",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;1;o;0;0t;1;0l;4;0v;0;0f;0;1t;0;1l;0;1o;0;1a;0;1m;0;1f;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "d4v41",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;s;0.415;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "luckeRRR",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;h;0;0v;20;0g;1;0o;2;0a;1;0f;0;1t;10;1l;0;1o;0;1a;1;1m;0;1f;0;S;c;1;s;0.31;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "mwzewra",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;d;1;z;3;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Riza",
+    "team": "COMPETITIVE",
+    "code": "0;s;1;P;o;1;d;1;0b;0;1b;0;S;s;0.616;o;1",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "Snowflake",
+    "team": "FUNNY",
+    "code": "0;P;h;0;f;0;m;1;0l;3;0o;2;0a;1;0f;0;1t;8;1l;1;1o;2;1a;1;1m;0;1f;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Tacolilla",
+    "team": "COMPETITIVE",
+    "code": "0;P;c;5;o;1;d;1;z;3;0b;0;1b;0",
+    "logoColor": "from-[#FF4655] to-[#8B0000]",
+    "avatarInitials": "CMP",
+    "category": "Competitive"
+  },
+  {
+    "name": "valyn",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;7;o;1;0t;1;0l;3;0o;2;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "Windmill",
+    "team": "FUNNY",
+    "code": "0;P;c;1;t;6;o;1;d;1;z;6;a;0;f;0;m;1;0t;10;0l;20;0o;20;0a;1;0m;1;0e;0.1;1t;10;1l;10;1o;40;1a;1;1m;0",
+    "logoColor": "from-[#00F0FF] to-[#0055A5]",
+    "avatarInitials": "FUN",
+    "category": "Funny"
+  },
+  {
+    "name": "Cloud",
+    "team": "VALORANT PRO",
+    "code": "0;P;c;8;h;0;b;1;0l;4;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "cNed",
+    "team": "FUT Esports",
+    "code": "0;P;h;0;0l;5;0o;0;0a;1;0f;0;1b;0",
+    "logoColor": "from-[#FF5500] to-[#111111]",
+    "avatarInitials": "FUT",
+    "category": "Pro"
+  },
+  {
+    "name": "Dingwei",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;o;1;d;1;z;3;0b;0;1b;0;S;s;0.762",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  },
+  {
+    "name": "tomaszy",
+    "team": "VALORANT PRO",
+    "code": "0;s;1;P;c;8;o;1;b;1;0t;1;0l;3;0o;0;0a;1;0f;0;1b;0;S;c;4;o;1",
+    "logoColor": "from-[#FF007F] to-[#4B0082]",
+    "avatarInitials": "PRO",
+    "category": "Pro"
+  }
+]
