@@ -5,7 +5,7 @@ export const adsConfig: AdsSystemConfig = {
   enabled: true,
 
   // Enable/disable AdBlock warning modal
-  showAdBlockModal: true,
+  showAdBlockModal: false,
 
   // Excluded page paths or page state names where ads MUST NOT be displayed
   excludedPages: [
