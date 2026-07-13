@@ -1,5 +1,9 @@
 @import "tailwindcss";
 
+html {
+  scrollbar-gutter: stable;
+}
+
 @theme {
   --color-val-red: #FF4655;
   --color-val-cyan: #00F0FF;

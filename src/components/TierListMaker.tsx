@@ -859,7 +859,9 @@ export default function TierListMaker({ onBackToHome }: TierListMakerProps) {
                                       ref={draggableProvided.innerRef}
                                       {...draggableProvided.draggableProps}
                                       {...draggableProvided.dragHandleProps}
-                                      className={`h-16 flex items-center justify-center bg-[#161A1E] border hover:border-white/20 select-none group transition shrink-0 rounded-xs relative ${
+                                      className={`h-16 flex items-center justify-center bg-[#161A1E] border hover:border-white/20 select-none group shrink-0 rounded-xs relative ${
+                                        draggableSnapshot.isDragging ? '' : 'transition'
+                                      } ${
                                         category === 'weapons' ? 'w-24 px-1.5' : category === 'maps' ? 'w-32' : 'w-16 aspect-square'
                                       } ${
                                         draggableSnapshot.isDragging ? 'border-[#FF4655] shadow-lg shadow-[#FF4655]/10' : 'border-white/5'
@@ -1026,7 +1028,9 @@ export default function TierListMaker({ onBackToHome }: TierListMakerProps) {
                                 ref={draggableProvided.innerRef}
                                 {...draggableProvided.draggableProps}
                                 {...draggableProvided.dragHandleProps}
-                                className={`h-16 flex items-center justify-center bg-[#161A1E] border hover:border-white/20 select-none group transition shrink-0 rounded-xs relative ${
+                                className={`h-16 flex items-center justify-center bg-[#161A1E] border hover:border-white/20 select-none group shrink-0 rounded-xs relative ${
+                                  draggableSnapshot.isDragging ? '' : 'transition'
+                                } ${
                                   category === 'weapons' ? 'w-24 px-1.5' : category === 'maps' ? 'w-48' : 'w-16 aspect-square'
                                 } ${
                                   draggableSnapshot.isDragging ? 'border-[#FF4655] shadow-lg shadow-[#FF4655]/10' : 'border-white/5'
