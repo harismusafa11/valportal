@@ -598,8 +598,9 @@ export default function PlannerBoard({ map, initialTactic, onBackToHome, onSave 
       objects: []
     };
 
-    setSlides([...slides, newSlide]);
-    setActiveSlideIdx(slides.length);
+    const updatedSlides = [...slides, newSlide];
+    setSlides(updatedSlides);
+    setActiveSlideIdx(updatedSlides.length - 1);
     setUndoStack([]);
     setRedoStack([]);
     showNotification(`ADDED PHASE ${newSlideNumber}`, 'success');

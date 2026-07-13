@@ -11,7 +11,10 @@ export default function LanguageSelector() {
   return (
     <div className="relative">
       <button
-        onClick={() => setIsOpen(!isOpen)}
+        onClick={(e) => {
+          e.stopPropagation();
+          setIsOpen((prev) => !prev);
+        }}
         className="px-3 py-1.5 border border-white/10 hover:border-[#00F0FF] bg-[#161A1E] text-[10px] font-mono font-bold tracking-widest text-gray-300 hover:text-white transition duration-150 flex items-center space-x-1.5 cursor-pointer uppercase"
       >
         <Globe size={11} className="text-[#00F0FF]" />

@@ -47,7 +47,10 @@ export default function UserNav() {
         <div className="relative">
           {/* User profile avatar initials pill */}
           <button
-            onClick={() => setIsDropdownOpen(!isDropdownOpen)}
+            onClick={(e) => {
+              e.stopPropagation();
+              setIsDropdownOpen((prev) => !prev);
+            }}
             className="flex items-center space-x-2 bg-[#161A1E] border border-white/10 hover:border-[#FF4655] px-3 py-1.5 transition duration-150 rounded-none cursor-pointer text-gray-300 hover:text-white"
           >
             <div className="w-4.5 h-4.5 bg-gradient-to-br from-[#FF4655] to-[#8B0000] text-black font-rajdhani font-black text-[9px] flex items-center justify-center border border-white/20 select-none">

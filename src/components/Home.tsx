@@ -167,7 +167,10 @@ export default function Home({
           {/* Dropdown 1: AIM & SETTINGS */}
           <div className="relative">
             <button
-              onClick={() => setIsAimDropdownOpen(!isAimDropdownOpen)}
+              onClick={(e) => {
+                e.stopPropagation();
+                setIsAimDropdownOpen((prev) => !prev);
+              }}
               className={`px-4 py-1.5 border text-[11px] font-mono font-bold tracking-widest transition duration-150 uppercase bg-[#161A1E] flex items-center space-x-2 cursor-pointer ${
                 isAimDropdownOpen ? 'border-[#00F0FF] text-white' : 'border-white/10 text-gray-300 hover:text-white hover:border-[#00F0FF]'
               }`}
@@ -238,7 +241,10 @@ export default function Home({
           {/* Dropdown 2: VALORANT TOOLS */}
           <div className="relative">
             <button
-              onClick={() => setIsToolDropdownOpen(!isToolDropdownOpen)}
+              onClick={(e) => {
+                e.stopPropagation();
+                setIsToolDropdownOpen((prev) => !prev);
+              }}
               className={`px-4 py-1.5 border text-[11px] font-mono font-bold tracking-widest transition duration-150 uppercase bg-[#161A1E] flex items-center space-x-2 cursor-pointer ${
                 isToolDropdownOpen ? 'border-[#00F0FF] text-white' : 'border-white/10 text-gray-300 hover:text-white hover:border-[#00F0FF]'
               }`}
