@@ -533,7 +533,7 @@ export default function PlannerBoard({ map, initialTactic, onBackToHome, onSave 
 
   // Push previous state to undo stack
   const addUndoState = () => {
-    const currentObjects = slides[activeSlideIdx].objects;
+    const currentObjects = (slides[activeSlideIdx] || slides[0] || { objects: [] }).objects;
     setUndoStack(prev => [...prev, [...currentObjects]]);
     setRedoStack([]); // Clear redo stack on new action
   };
@@ -550,7 +550,7 @@ export default function PlannerBoard({ map, initialTactic, onBackToHome, onSave 
   // Undo action
   const handleUndo = () => {
     if (undoStack.length === 0) return;
-    const currentObjects = slides[activeSlideIdx].objects;
+    const currentObjects = (slides[activeSlideIdx] || slides[0] || { objects: [] }).objects;
     const previousObjects = undoStack[undoStack.length - 1];
 
     setRedoStack(prev => [...prev, [...currentObjects]]);
@@ -563,7 +563,7 @@ export default function PlannerBoard({ map, initialTactic, onBackToHome, onSave 
   // Redo action
   const handleRedo = () => {
     if (redoStack.length === 0) return;
-    const currentObjects = slides[activeSlideIdx].objects;
+    const currentObjects = (slides[activeSlideIdx] || slides[0] || { objects: [] }).objects;
     const nextObjects = redoStack[redoStack.length - 1];
 
     setUndoStack(prev => [...prev, [...currentObjects]]);
@@ -708,7 +708,7 @@ export default function PlannerBoard({ map, initialTactic, onBackToHome, onSave 
 
     setActiveTool('select');
 
-    const currentSlide = slides[activeSlideIdx];
+    const currentSlide = slides[activeSlideIdx] || slides[0] || { objects: [] };
     handleObjectsChange([...currentSlide.objects, agentObj, abilityObj, arrowObj]);
     
     showNotification(`APPLIED: ${lineup.name.toUpperCase()}`, 'success');
@@ -782,7 +782,7 @@ export default function PlannerBoard({ map, initialTactic, onBackToHome, onSave 
       ctx.strokeRect(49, 49, 902, 902);
 
       // 2. Draw placed Objects & Lines from Slide
-      const currentSlide = slides[activeSlideIdx];
+      const currentSlide = slides[activeSlideIdx] || slides[0] || { objects: [] };
       
       for (const obj of currentSlide.objects) {
         ctx.save();
@@ -1089,13 +1089,14 @@ export default function PlannerBoard({ map, initialTactic, onBackToHome, onSave 
           {slides.map((slide, idx) => (
             <div 
               key={slide.id}
-              className={`group flex items-center px-3 py-1 font-mono text-[10px] font-bold tracking-widest uppercase transition-all duration-150 cursor-pointer ${idx === activeSlideIdx ? 'bg-[#FF4655] text-black font-extrabold' : 'text-gray-400 hover:text-white hover:bg-white/5'}`}
-            >
-              <span onClick={() => {
+              onClick={() => {
                 setActiveSlideIdx(idx);
                 setUndoStack([]);
                 setRedoStack([]);
-              }}>
+              }}
+              className={`group flex items-center px-3 py-1 font-mono text-[10px] font-bold tracking-widest uppercase transition-all duration-150 cursor-pointer ${idx === activeSlideIdx ? 'bg-[#FF4655] text-black font-extrabold' : 'text-gray-400 hover:text-white hover:bg-white/5'}`}
+            >
+              <span>
                 {slide.name}
               </span>
               
@@ -1115,10 +1116,10 @@ export default function PlannerBoard({ map, initialTactic, onBackToHome, onSave 
 
           <button
             onClick={handleAddSlide}
-            className="p-1 text-[#FF4655] hover:text-white hover:bg-[#FF4655]/10 rounded-none transition duration-150 active:scale-90 flex items-center"
+            className="px-2.5 py-1 text-[#FF4655] hover:text-white hover:bg-[#FF4655]/10 rounded-none transition duration-150 active:scale-90 flex items-center justify-center cursor-pointer"
             title="Create next planning phase"
           >
-            <Plus size={11} />
+            <Plus size={12} />
           </button>
         </div>
 
@@ -1489,7 +1490,7 @@ export default function PlannerBoard({ map, initialTactic, onBackToHome, onSave 
  
           <TacticalCanvas
             map={activeMap}
-            slide={slides[activeSlideIdx]}
+            slide={slides[activeSlideIdx] || slides[0] || { id: '', name: '', objects: [] }}
             activeTool={
               activePlacementCoordType === 'agent' ? 'set-agent-pos' :
               activePlacementCoordType === 'ability' ? 'set-ability-pos' :
@@ -1548,7 +1549,7 @@ export default function PlannerBoard({ map, initialTactic, onBackToHome, onSave 
               {/* Video aspect wrapper */}
               <div className="aspect-video w-full bg-black relative border-b border-white/5">
                 <iframe
-                  src={`https://www.youtube.com/embed/${selectedLineup.video.youtube_id}?start=${selectedLineup.video.timestamp_sec}&autoplay=1`}
+                  src={`https://www.youtube-nocookie.com/embed/${selectedLineup.video.youtube_id}?start=${selectedLineup.video.timestamp_sec}&autoplay=1`}
                   title={selectedLineup.name}
                   className="absolute inset-0 w-full h-full border-0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -2277,7 +2278,7 @@ export default function PlannerBoard({ map, initialTactic, onBackToHome, onSave 
             
             <div className="aspect-video w-full bg-black relative">
               <iframe
-                src={`https://www.youtube.com/embed/${activeVideo.youtubeId}?start=${activeVideo.start}&autoplay=1`}
+                src={`https://www.youtube-nocookie.com/embed/${activeVideo.youtubeId}?start=${activeVideo.start}&autoplay=1`}
                 title={activeVideo.title}
                 className="absolute inset-0 w-full h-full border-0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

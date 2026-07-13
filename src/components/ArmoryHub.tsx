@@ -909,7 +909,7 @@ export default function ArmoryHub({ onBackToHome }: ArmoryHubProps) {
                   <div className="w-full h-64 md:h-80 flex items-center justify-center relative bg-black/20 border border-white/5 mb-6 select-none overflow-hidden group">
                     {activeFlexVideoId ? (
                       <iframe
-                        src={`https://www.youtube.com/embed/${activeFlexVideoId}?autoplay=1&rel=0`}
+                        src={`https://www.youtube-nocookie.com/embed/${activeFlexVideoId}?autoplay=1&rel=0`}
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                         allowFullScreen
                         className="w-full h-full object-cover max-h-full border-none"
