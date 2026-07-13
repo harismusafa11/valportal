@@ -32,9 +32,19 @@ export default function App() {
   const [selectedMap, setSelectedMap] = useState<ValorantMap | null>(null);
   const [activeTactic, setActiveTactic] = useState<SavedTactic | null>(null);
   const [savedTactics, setSavedTactics] = useState<SavedTactic[]>([]);
+  const [errors, setErrors] = useState<string[]>([]);
 
   // Load saved tactics & download setup from cloud on mount
   useEffect(() => {
+    const handleError = (e: ErrorEvent) => {
+      setErrors(prev => [...prev, `Error: ${e.message} at ${e.filename}:${e.lineno}:${e.colno}`]);
+    };
+    const handleRejection = (e: PromiseRejectionEvent) => {
+      setErrors(prev => [...prev, `Unhandled Rejection: ${e.reason?.message || e.reason}`]);
+    };
+    window.addEventListener('error', handleError);
+    window.addEventListener('unhandledrejection', handleRejection);
+
     try {
       const stored = localStorage.getItem('valportal_tactics');
       if (stored) {
@@ -53,7 +63,11 @@ export default function App() {
       if (page) setCurrentPage(page);
     };
     window.addEventListener('valportal_navigate', handleNavigate);
-    return () => window.removeEventListener('valportal_navigate', handleNavigate);
+    return () => {
+      window.removeEventListener('error', handleError);
+      window.removeEventListener('unhandledrejection', handleRejection);
+      window.removeEventListener('valportal_navigate', handleNavigate);
+    };
   }, []);
 
   // Map chosen -> Initialize new planner session
@@ -221,6 +235,23 @@ export default function App() {
 
         {/* Global Floating Layout Side Banners & Blocker Alert */}
         <LayoutAds currentPage={currentPage} />
+
+        {errors.length > 0 && (
+          <div className="fixed bottom-0 left-0 right-0 z-50 max-h-60 overflow-y-auto bg-red-950/95 border-t border-red-500 p-4 font-mono text-xs text-red-200">
+            <div className="flex justify-between items-center mb-2 font-bold text-red-400 uppercase tracking-widest border-b border-red-900 pb-1">
+              <span>Frontend Runtime Errors ({errors.length})</span>
+              <button 
+                onClick={() => setErrors([])} 
+                className="px-2 py-0.5 bg-red-900/50 hover:bg-red-900 border border-red-500/30 text-white rounded cursor-pointer"
+              >
+                Clear
+              </button>
+            </div>
+            {errors.map((err, i) => (
+              <div key={i} className="mb-1 py-0.5 border-b border-red-950 last:border-b-0 break-all">{err}</div>
+            ))}
+          </div>
+        )}
       </div>
     </LanguageProvider>
   );
