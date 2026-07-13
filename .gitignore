@@ -10,7 +10,6 @@ coverage/
 # Development/utility scripts - not needed in production
 scratch/
 scripts/
-server.js
 flex-gallery.html
 lineups-summary.md
 ability_icons.json
