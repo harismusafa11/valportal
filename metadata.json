@@ -1,6 +1,0 @@
-{
-  "name": "ValoPlanner",
-  "description": "Tactical planning board for Valorant. Plan strategies, draw lines, drop agent abilities, and export high-quality maps.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
