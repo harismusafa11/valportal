@@ -336,7 +336,9 @@ export default function ArmoryHub({ onBackToHome }: ArmoryHubProps) {
     if (!skin?.levels) return null;
     // Look for standard Level 4 or level with finisher
     const videoLevel = skin.levels.slice().reverse().find((lvl: any) => lvl.streamedVideo !== null);
-    return videoLevel ? videoLevel.streamedVideo : null;
+    if (!videoLevel || !videoLevel.streamedVideo) return null;
+    // Force HTTPS to prevent browser Mixed Content blocking
+    return videoLevel.streamedVideo.replace(/^http:/i, 'https:');
   };
 
   const activeVideo = useMemo(() => {
